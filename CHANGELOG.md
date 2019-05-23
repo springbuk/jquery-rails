@@ -1,3 +1,7 @@
+## 4.4.0
+
+- update jquery to 3.4.1
+
 ## 4.3.3
 
 - update jquery to 3.3.1
